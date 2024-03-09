@@ -30,11 +30,11 @@
     padding-right: 100px;
     font-family: "Space Mono", monospace;
 }
-.text a{
+.btn a{
     text-decoration: none;
     color: whitesmoke;
 }
-.text a:visited{
+.btn a:visited{
     text-decoration: none;
     color: whitesmoke;
 }
@@ -77,11 +77,11 @@
         margin-top: 60px;
         padding-left: 0;
     }
-    .text a{
+    .btn a{
         text-decoration: none;
         color: whitesmoke;
     }
-    .text a:visited{
+    .btn a:visited{
         text-decoration: none;
         color: whitesmoke;
     }
