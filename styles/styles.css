@@ -52,7 +52,8 @@
 @media screen and (max-width: 576px) {
     .container{
         flex-direction: column;
-        margin-left: 10px;
+        margin-left: 0px;
+        margin: 10px;
     }
     img{
         width: 100%;
@@ -66,13 +67,13 @@
     }
     .text{
         /* flex-wrap: wrap; */
-        margin: 10px;
+        /* margin: 10px; */
         margin-top: 60px;
         padding-left: 0;
     }
     .side-note{
         position: absolute;
-        left: 15px;
+        left: 20px;
     }
     .title, .discription{
         padding-right: 0;
